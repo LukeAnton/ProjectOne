@@ -21,16 +21,13 @@
 ### Edit User Page
 <img width="1438" alt="Screen Shot 2019-04-26 at 8 48 41 am" src="https://user-images.githubusercontent.com/43797015/56773626-5104c080-6802-11e9-9f1e-93da68237662.png">
 
-##Schema
+## Schema
 <img width="652" alt="Screen Shot 2019-04-26 at 10 55 10 am" src="https://user-images.githubusercontent.com/43797015/56776879-f2474300-6811-11e9-960d-bf68ddf28075.png">
 
-##Routes
+## Routes
 <img width="747" alt="Screen Shot 2019-04-26 at 11 08 19 am" src="https://user-images.githubusercontent.com/43797015/56777220-a3021200-6813-11e9-96fb-f0fc0eece661.png">
 <img width="692" alt="Screen Shot 2019-04-26 at 11 07 24 am" src="https://user-images.githubusercontent.com/43797015/56777228-a85f5c80-6813-11e9-84f9-87abb3a915da.png">
 <img width="892" alt="Screen Shot 2019-04-26 at 11 07 33 am" src="https://user-images.githubusercontent.com/43797015/56777232-ac8b7a00-6813-11e9-9881-88a7115b37ea.png">
-
-
-
 
 
 ### Sore bits
